@@ -1,0 +1,51 @@
+body{
+	background-color: #fff;
+	margin-top: 0;
+	font-family: 'Montserrat',sans-serif;
+}
+
+.conteiner{
+	width: 100%;
+	max-width: 1200px;
+	margin:0 auto;
+}
+
+.head{
+	background-color: #353340;
+	width: 100%;
+	margin-left: 108px;
+	align-items: center;
+
+}
+
+.nav{
+	font-size: 16px;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 24px;
+
+	display: inline-block;
+	justify-content: space-between;
+
+	margin-right: 0px;
+	max-width: 500px;
+
+
+
+
+}
+
+.menu{
+	text-decoration: none;
+	color: white;
+	margin-right: 24px;
+}
+
+.menu last-of-type{
+	margin-right: 0px;
+}
+
+.menu:hover{
+	border-bottom: 3px solid white;
+}
+
